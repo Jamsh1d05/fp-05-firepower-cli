@@ -64,4 +64,4 @@ Note: This project is based on an existing implementation and has been modified 
 
 ## License
 
-Refer to the original project for licensing details. [text](https://github.com/CiscoSecurity/fp-05-firepower-cli)
+Refer to the original project for licensing details. [original-repo](https://github.com/CiscoSecurity/fp-05-firepower-cli)
