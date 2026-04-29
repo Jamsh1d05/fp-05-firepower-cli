@@ -6,8 +6,14 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-REDIS_STREAM  = "alerts_stream"
+REDIS_STREAM  = "alerts"
 STREAM_MAXLEN = 10_000
+
+'''
+Note: It filters by default data structure
+You can customize the filters by your data structure.
+
+'''
 
 
 class RedisPublisher:
